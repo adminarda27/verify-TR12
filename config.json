@@ -1,6 +1,6 @@
 {
   "client_id": "1367928958510829608",
-  "client_secret": "aYFU2DTSGRMNIWtoSg0-xnM9MWOPCr-d",
+  "client_secret": "t9R-nBo8kXf4nxmjNeSQQzZXUALROvQo",
   "redirect_uri": "https://verify-tr-12.onrender.com/callback",
   "scope": "identify email",
   "server_host": "0.0.0.0",
