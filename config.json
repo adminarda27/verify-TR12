@@ -1,0 +1,9 @@
+{
+  "client_id": "1367928958510829608",
+  "client_secret": "aYFU2DTSGRMNIWtoSg0-xnM9MWOPCr-d",
+  "redirect_uri": "https://e9a6-2405-1202-9409-bc00-8132-66c8-ab86-3d18.ngrok-free.app",
+  "scope": "identify email",
+  "server_host": "0.0.0.0",
+  "server_port": 5000,
+  "server_logging": false
+}
